@@ -1,0 +1,10 @@
+Watson (computer)
+From Wikipedia, the free encyclopedia
+"IBM Watson" redirects here. For the IBM laboratory, see Thomas J. Watson Research Center.
+Watson's avatar, inspired by the IBM "smarter planet" logo[1]
+
+Watson is a question answering computer system capable of answering questions posed in natural language,[2] developed in IBM's DeepQA project by a research team led by principal investigator David Ferrucci.[3] Watson was named after IBM's first CEO, industrialist Thomas J. Watson.[4][5] The computer system was specifically developed to answer questions on the quiz show Jeopardy![6] and, in 2011, the Watson computer system competed on Jeopardy! against former winners Brad Rutter and Ken Jennings[4][7] winning the first place prize of $1 million.[8]
+
+Watson had access to 200 million pages of structured and unstructured content consuming four terabytes of disk storage[9] including the full text of Wikipedia,[10] but was not connected to the Internet during the game.[11][12] For each clue, Watson's three most probable responses were displayed on the television screen. Watson consistently outperformed its human opponents on the game's signaling device, but had trouble in a few categories, notably those having short clues containing only a few words.
+
+In February 2013, IBM announced that Watson software system's first commercial application would be for utilization management decisions in lung cancer treatment at Memorial Sloan Kettering Cancer Center, New York City, in conjunction with health insurance company WellPoint.[13] IBM Watson's former business chief, Manoj Saxena, says that 90% of nurses in the field who use Watson now follow its guidance.[14]
